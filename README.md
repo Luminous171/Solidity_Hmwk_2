@@ -27,15 +27,19 @@ claimRefund - Used for refunding if the sale goal is not achieved.
 The following sets of images will show the successful deployment and testing of the smart contract.
 
 First the initial wallet values in ganache.
+
 ![Initial_Wallet](Images/Initial_Wallet.PNG)
 
 The first token deployed.
+
 ![First_Token](Images/Deploy_Token.PNG)
 
 Purchasing the goal amount of Ether in tokens.
+
 ![Purchase](Images/Purchase_Token_Goal.PNG)
 
 A few checks that the purchase worked correctly.
+
 ![Token_Check](Images/Token_Check.PNG)
 ![Raise_Check](Images/Raise_Check.PNG)
 ![Goal_Check](Images/Goal_Check.PNG)
@@ -43,9 +47,11 @@ A few checks that the purchase worked correctly.
 ![New_Wallet_Bal](Images/New_Wallet_Balance.PNG)
 
 After finalizing the crowdsale this value should return when clicking finalize.
+
 ![Finalize_Check](Images/Finalize_Check.PNG)
 
 Adding the token to MetaMask is easy. Simply click the add token button and enter the token_address from the first deployment.
+
 ![Add_Token_Metamask](Images/Add_Token_Metamask.PNG)
 
 Lastly this can be deployed on a real testnet in the real world!! 
